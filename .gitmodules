@@ -1,0 +1,4 @@
+[submodule "3HMouse-Firmware"]
+	path = 3HMouse-Firmware
+	url = https://github.com/HazelTheWitch/3HMouse-Firmware.git
+	branch = main
