@@ -2332,9 +2332,9 @@
   )
 
   (symbol (lib_id "CherryMX:CherryMX") (at 157.48 95.885 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 03450b8f-fc4d-434e-bd58-3aa679557c4b)
-    (property "Reference" "SW31" (id 0) (at 157.48 88.265 0))
+    (property "Reference" "SW29" (id 0) (at 157.48 88.265 0))
     (property "Value" "CherryMX" (id 1) (at 157.48 90.805 0))
     (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 157.48 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2362,9 +2362,9 @@
   )
 
   (symbol (lib_id "CherryMX:CherryMX") (at 143.51 95.885 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 0fa31cb8-7672-48e3-a3df-ba70a523e3f0)
-    (property "Reference" "SW29" (id 0) (at 143.51 88.265 0))
+    (property "Reference" "SW27" (id 0) (at 143.51 88.265 0))
     (property "Value" "CherryMX" (id 1) (at 143.51 90.805 0))
     (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 143.51 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2998,7 +2998,7 @@
   (symbol (lib_id "Device:RotaryEncoder") (at 133.35 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7084012f-9f53-49a4-9f6c-0fc49f2f085e)
-    (property "Reference" "SW26" (id 0) (at 139.7 33.0199 0)
+    (property "Reference" "SW30" (id 0) (at 139.7 33.0199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RotaryEncoder" (id 1) (at 139.7 35.5599 0)
@@ -3161,9 +3161,9 @@
   )
 
   (symbol (lib_id "CherryMX:CherryMX") (at 157.48 80.645 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 81b3182e-bef8-43da-b30b-949829e17b92)
-    (property "Reference" "SW30" (id 0) (at 157.48 73.025 0))
+    (property "Reference" "SW28" (id 0) (at 157.48 73.025 0))
     (property "Value" "CherryMX" (id 1) (at 157.48 75.565 0))
     (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 157.48 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3228,7 +3228,7 @@
   (symbol (lib_id "Device:RotaryEncoder") (at 133.35 46.355 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 85fe6307-0285-4bd4-aaf9-c64a8b5619b6)
-    (property "Reference" "SW27" (id 0) (at 139.7 45.0849 0)
+    (property "Reference" "SW31" (id 0) (at 139.7 45.0849 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "RotaryEncoder" (id 1) (at 139.7 47.6249 0)
@@ -3670,9 +3670,9 @@
   )
 
   (symbol (lib_id "CherryMX:CherryMX") (at 143.51 80.645 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid e0216e84-2ce2-4d70-a198-14f8e2650f46)
-    (property "Reference" "SW28" (id 0) (at 143.51 73.025 0))
+    (property "Reference" "SW26" (id 0) (at 143.51 73.025 0))
     (property "Value" "CherryMX" (id 1) (at 143.51 75.565 0))
     (property "Footprint" "MX_Only:MXOnly-1U" (id 2) (at 143.51 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4195,23 +4195,23 @@
     (path "/ff34c293-bcd4-4513-a2b9-fe2e375593e0"
       (reference "SW25") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
     )
-    (path "/7084012f-9f53-49a4-9f6c-0fc49f2f085e"
-      (reference "SW26") (unit 1) (value "RotaryEncoder") (footprint "Keebio-Parts:RotaryEncoder_EC11")
-    )
-    (path "/85fe6307-0285-4bd4-aaf9-c64a8b5619b6"
-      (reference "SW27") (unit 1) (value "RotaryEncoder") (footprint "Keebio-Parts:RotaryEncoder_EC11")
-    )
     (path "/e0216e84-2ce2-4d70-a198-14f8e2650f46"
-      (reference "SW28") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
+      (reference "SW26") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/0fa31cb8-7672-48e3-a3df-ba70a523e3f0"
-      (reference "SW29") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
+      (reference "SW27") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/81b3182e-bef8-43da-b30b-949829e17b92"
-      (reference "SW30") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
+      (reference "SW28") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
     )
     (path "/03450b8f-fc4d-434e-bd58-3aa679557c4b"
-      (reference "SW31") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
+      (reference "SW29") (unit 1) (value "CherryMX") (footprint "MX_Only:MXOnly-1U")
+    )
+    (path "/7084012f-9f53-49a4-9f6c-0fc49f2f085e"
+      (reference "SW30") (unit 1) (value "RotaryEncoder") (footprint "Keebio-Parts:RotaryEncoder_EC11")
+    )
+    (path "/85fe6307-0285-4bd4-aaf9-c64a8b5619b6"
+      (reference "SW31") (unit 1) (value "RotaryEncoder") (footprint "Keebio-Parts:RotaryEncoder_EC11")
     )
     (path "/f38537ef-e8e3-4868-a9d5-b9b5e50ace08"
       (reference "SW32") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
