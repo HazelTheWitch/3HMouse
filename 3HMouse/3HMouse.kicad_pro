@@ -67,7 +67,6 @@
         "clearance|97990000|34083000|54331de2-412f-4917-bf7d-4695c6bf2b33|812eb21c-5fb0-4741-b681-fc347ff77210",
         "clearance|97990000|35433000|9b780e71-5a40-40e6-a8d8-586030589a45|adcad5d6-890e-4a67-b27b-a985a038ca36",
         "clearance|98840000|34083000|bd25831b-618d-4586-9981-84436b5a43cc|54331de2-412f-4917-bf7d-4695c6bf2b33",
-        "clearance|98840000|35433000|adcad5d6-890e-4a67-b27b-a985a038ca36|0e37c238-51a0-4ba1-984d-609db271ad8c",
         "clearance|99690000|34083000|9b3d5656-eabc-4a47-8d3b-f028a452a04c|bd25831b-618d-4586-9981-84436b5a43cc",
         "clearance|99690000|35433000|0e37c238-51a0-4ba1-984d-609db271ad8c|8e93d729-003f-465e-9d9a-9e701d173b59"
       ],
@@ -134,7 +133,9 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        0.25,
+        0.5
       ],
       "via_dimensions": [
         {
@@ -378,7 +379,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.254,
+        "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -399,7 +400,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.381,
+        "track_width": 0.5,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6.0
@@ -417,7 +418,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": ""
+      "vrml": "3HMouse.wrl"
     },
     "page_layout_descr_file": ""
   },

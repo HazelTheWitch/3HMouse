@@ -3,4 +3,6 @@
   (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/SamacSys_Parts.lib")(options "")(descr ""))
   (lib (name "SSD1306-128x64_OLED")(type "Legacy")(uri "${KIPRJMOD}/SSD1306-128x64_OLED.lib")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "Legacy")(uri "${KIPRJMOD}/TS-1187A-B-A-B.lib")(options "")(descr ""))
+  (lib (name "HLibrary")(type "KiCad")(uri "${KIPRJMOD}/HLibrary.kicad_sym")(options "")(descr ""))
 )

@@ -12,4 +12,10 @@ K
 F https://tech.alpsalpine.com/prod/e/html/multicontrol/potentiometer/rkjxk/rkjxv122400r.html
 $ENDCMP
 #
+$CMP TS-1187A-B-A-B
+D Tactile Switches SPST 5.10mm x 5.10mm 0.40mm 50mA @ 12VDC SMD RoHS
+K
+F http://www.helloxkb.com/public/images/pdf/TS-1187A-B-A-B-.pdf
+$ENDCMP
+#
 #End Doc Library
