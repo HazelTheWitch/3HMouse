@@ -1,4 +1,4 @@
-20803020969217458
+20804673595958834
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80918,6 +80918,13 @@ Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular dril
 rotary encoder
 0
 5
+4
+SSD1306
+128x64OLED
+
+
+0
+4
 4
 SamacSys_Parts
 NE555DR

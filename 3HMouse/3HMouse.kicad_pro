@@ -55,7 +55,22 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|100540000|34083000|16aa9c50-3072-4e85-82ec-2bb887695542|9b3d5656-eabc-4a47-8d3b-f028a452a04c",
+        "clearance|100540000|35433000|8e93d729-003f-465e-9d9a-9e701d173b59|f5bdc52d-7ddf-42e7-a23a-5a15f8556caf",
+        "clearance|95440000|34083000|16b5d125-d20e-46d7-b264-cbcd65443c2d|ebd20d4e-34cb-4daa-91a6-d1b8a90d951d",
+        "clearance|95440000|35433000|daa909a2-46dd-43df-98bb-34f430c0891d|10aefe5c-51da-4fc5-bd85-940a39cfa6d2",
+        "clearance|96290000|34083000|1fbf5867-01f3-435c-ae31-7c1f7508fddc|16b5d125-d20e-46d7-b264-cbcd65443c2d",
+        "clearance|96290000|35433000|10aefe5c-51da-4fc5-bd85-940a39cfa6d2|3b779f8c-afac-464b-a208-4e3be656a73b",
+        "clearance|97140000|34083000|812eb21c-5fb0-4741-b681-fc347ff77210|1fbf5867-01f3-435c-ae31-7c1f7508fddc",
+        "clearance|97140000|35433000|3b779f8c-afac-464b-a208-4e3be656a73b|9b780e71-5a40-40e6-a8d8-586030589a45",
+        "clearance|97990000|34083000|54331de2-412f-4917-bf7d-4695c6bf2b33|812eb21c-5fb0-4741-b681-fc347ff77210",
+        "clearance|97990000|35433000|9b780e71-5a40-40e6-a8d8-586030589a45|adcad5d6-890e-4a67-b27b-a985a038ca36",
+        "clearance|98840000|34083000|bd25831b-618d-4586-9981-84436b5a43cc|54331de2-412f-4917-bf7d-4695c6bf2b33",
+        "clearance|98840000|35433000|adcad5d6-890e-4a67-b27b-a985a038ca36|0e37c238-51a0-4ba1-984d-609db271ad8c",
+        "clearance|99690000|34083000|9b3d5656-eabc-4a47-8d3b-f028a452a04c|bd25831b-618d-4586-9981-84436b5a43cc",
+        "clearance|99690000|35433000|0e37c238-51a0-4ba1-984d-609db271ad8c|8e93d729-003f-465e-9d9a-9e701d173b59"
+      ],
       "meta": {
         "version": 2
       },
@@ -85,7 +100,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "through_hole_pad_without_hole": "error",
