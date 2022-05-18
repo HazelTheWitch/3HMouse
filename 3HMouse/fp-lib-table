@@ -6,4 +6,5 @@
   (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/SSD1306.pretty")(options "")(descr ""))
   (lib (name "SW_TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/SW_TS-1187A-B-A-B")(options "")(descr ""))
   (lib (name "USB_C_Receptacle_GT-USB-7010")(type "KiCad")(uri "${KIPRJMOD}/USB_C_Receptacle_GT-USB-7010")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/misc.pretty")(options "")(descr ""))
 )
